@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack 
 **Backend:** Java, Spring Boot, Hibernate, REST APIs  
 **Frontend:** React.js, JavaScript, HTML, CSS, Bootstrap, Tailwind  
 **Database:** MySQL, Mongodb

@@ -11,7 +11,7 @@
 - Built real-world projects like **Job Portal, Food Delivery App, Blog Platform**
 - Strong understanding of **REST APIs, Authentication, and Databases**
 - Looking for **Software Developer / Java Full Stack** opportunities
-
+ 
 ---
 
 ### 🛠️ Tech Stack 

@@ -4,7 +4,7 @@
 💻 Spring Boot | React | REST APIs | MySQL  
 🌱 Passionate about building scalable web applications  
 
----
+--- 
 
 ### 🧑‍💻 About Me
 - Full Stack Developer with hands-on experience in **Spring Boot & React**
